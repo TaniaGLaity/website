@@ -22,7 +22,7 @@ toc: true
 
 ## Core Members
 
-- Tania Laity - _Atlas of Living Australia, species information_
+- Tania Laity - _Atlas of Living Australia, data management and sensitive species expertise_
 - Andrew Rodrigues - _GBIF, Global initiatives and implementation of DWC_
 - Piers Higgs - _Gaia Resources, technical expertise_
 - John Wieczorek - _VertNet, Darwin Core Maintenance Interest Group_
@@ -60,7 +60,7 @@ Create a GitHub repository for the task group to assure adoption of best practic
 
 ## Becoming Involved
 
-* individuals having an interest in this work should contact the convener and are invited to watch and contribute via the Sensitive Species Extension GitHub Repository.
+* individuals having an interest in this work should contact the convener and are invited to watch and contribute via the Sensitive Species Extension GitHub Repository (https://github.com/tdwg/sensitive-species-extension).
 * Please join the mailing list to contact the group http://lists.tdwg.org/mailman/listinfo/tdwg-sensitvespecies
 
 
